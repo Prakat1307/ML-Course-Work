@@ -1,2 +1,2 @@
-# ML-Course-Work
-Practice questions in the Course Work
+# ML Housing Analysis - Course Work
+This project presents a full-fledged machine learning workflow for predicting and classifying housing prices using Python. It covers the entire pipeline—data preprocessing, exploratory analysis, statistical insights, regression modeling (Linear, Ridge, Lasso), and classification techniques (Bayesian Logistic Regression, SVM). The implementation is organized across four detailed Jupyter notebooks, illustrating each stage from dataset loading to performance evaluation. Core libraries such as pandas, scikit-learn, and matplotlib power the analysis and visualization. Experimental results highlight Ridge Regression and Support Vector Machines as the most effective models, validated through extensive cross-validation. Developed as part of a B.Tech Computer Science AI/ML course.
